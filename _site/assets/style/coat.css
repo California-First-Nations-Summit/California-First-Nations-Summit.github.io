@@ -1,0 +1,16 @@
+#agenda {
+  width: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  font-size: 4vw;
+  font-weight: 100;
+}
+#agenda div {
+  margin: 0;
+  font-size: 4vw;
+}
+#agenda .business {
+  min-height: 25vh;
+}
+
+/*# sourceMappingURL=fur.css.map */
